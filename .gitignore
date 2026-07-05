@@ -1,0 +1,16 @@
+# --- Frontend Ignored Files ---
+flashride frontend/node_modules/
+flashride frontend/dist/
+flashride frontend/.env
+
+# --- Backend Ignored Files ---
+flashride backend/target/
+flashride backend/.gradle/
+flashride backend/build/
+
+# --- IDE/OS Specific ---
+.DS_Store
+Thumbs.db
+.settings/
+.classpath
+.project
